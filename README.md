@@ -28,7 +28,4 @@ Analysis of the impact of smoking status on patient outcomes
 Identification of top 5 most common cancer types and their respective recovery rates
 
 # Supervised Machine Learning for Predictive Modeling
-Build a machine learning model to predict the cancer stage (I, II, III, IV) based on:
-Demographic factors: Age, Gender, Nationality, Ethnicity
-Lifestyle factors: Smoking status
-Medical history: Comorbidities, Cancer type, Weight, Height
+Machine learning models were built to predict the cancer stage (I, II, III, IV) based on the demographic features (i.e., age, gender, nationality and ethnicity), lifestyle features (i.e., smoking status) and medical history (i.e., comorbidities, cancer type, weight and height). To achieve this, different machine learning models such as Logistic Regression (Multinomial and Ordinal), 
