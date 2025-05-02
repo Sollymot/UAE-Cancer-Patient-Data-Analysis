@@ -40,6 +40,7 @@ and predominantly non-smokers, treated mainly with surgery.Cluster 1 is younger 
 
 # Recommendations
 Based on the results, the following were recommended:
-* AI-based tools such as XGBClassifier should be integrated into clinical decision support systems to aid oncologists in staging and treatment planning.
+* Specific interventions for diverse cancer types should be developed.
+* Seeing that ethnicity is an important factor in cancer stages, culturally-sensitive interventions should be developed.
 * Personalized care plans and resource allocation should be done in consideration of the clusters uncovered. for instance targeted interventions for older, underweight, former smokers should be developed in order to cater for the different patient-groups.
 * Targeted cancer screening programs for high-risk populations (e.g., adults 65+, with low BMI, and smoking history) should be launched
