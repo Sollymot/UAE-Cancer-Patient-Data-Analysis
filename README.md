@@ -1,4 +1,5 @@
 # UAE-Cancer-Patient-Data-Analysis
+This project focuses on the analysis of United Arab Emirate's cancer data. Project covers data cleaning and exploration in Python, Supervised and Unsupervised Machine Learning Algorithms in Python
 
 # Project Objective
 To develop a machine learning model that classifies cancer patient data from the UAE into meaningful categories and clusters. This will help in gaining deeper insights into patient profiles, improve diagnosis support, and uncover hidden patterns within the healthcare data.
